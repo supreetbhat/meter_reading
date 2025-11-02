@@ -1,0 +1,5 @@
+train: /Users/supreetbhat/Github/meter_reading/datasets/meter-reader-detection/train/images
+val: /Users/supreetbhat/Github/meter_reading/datasets/meter-reader-detection/valid/images
+test : /Users/supreetbhat/Github/meter_reading/datasets/meter-reader-detection/test/images
+nc: 2
+names: ['meter_readings', 'serial_number']
